@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/oyesters-challenge/static/css/main.6fbd9fb3.chunk.css",
+    "main.js": "/oyesters-challenge/static/js/main.c0a6ede2.chunk.js",
+    "main.js.map": "/oyesters-challenge/static/js/main.c0a6ede2.chunk.js.map",
+    "runtime-main.js": "/oyesters-challenge/static/js/runtime-main.8f2092b6.js",
+    "runtime-main.js.map": "/oyesters-challenge/static/js/runtime-main.8f2092b6.js.map",
+    "static/js/2.2c2c719e.chunk.js": "/oyesters-challenge/static/js/2.2c2c719e.chunk.js",
+    "static/js/2.2c2c719e.chunk.js.map": "/oyesters-challenge/static/js/2.2c2c719e.chunk.js.map",
+    "index.html": "/oyesters-challenge/index.html",
+    "static/css/main.6fbd9fb3.chunk.css.map": "/oyesters-challenge/static/css/main.6fbd9fb3.chunk.css.map",
+    "static/js/2.2c2c719e.chunk.js.LICENSE.txt": "/oyesters-challenge/static/js/2.2c2c719e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f2092b6.js",
+    "static/js/2.2c2c719e.chunk.js",
+    "static/css/main.6fbd9fb3.chunk.css",
+    "static/js/main.c0a6ede2.chunk.js"
+  ]
+}
