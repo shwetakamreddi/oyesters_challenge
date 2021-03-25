@@ -1,0 +1,169 @@
+.product_services{
+    position: absolute;
+    width: 411px;
+    height: 1162px;
+    left: 0px;
+    top: 1622px;
+    display: flex;
+    flex-direction: column;
+}
+.header{
+position: absolute;
+width: 288px;
+height: 43px;
+left: 62px;
+top: 20px;
+}
+.header h1{
+    font-family:'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 133.69%;
+    /* identical to box height, or 43px */
+    
+    text-align: center;
+    
+    color: #1F2E35;
+}
+.product{
+position: absolute;
+width: 359px;
+height: 306px;
+left: 20px;
+top: 79px;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.img{
+position: absolute;
+left:150px;
+top: 1.7%;
+bottom: 1.7%;
+}
+.product .subheader{
+position: absolute;
+width: 151px;
+height: 37px;
+left: 100px;
+top: 40px;
+}
+.subheader h3{
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 133.69%;
+/* or 37px */
+color: #EE4248;
+}
+.info{
+position: absolute;
+width: 359px;
+height: 81px;
+left: 0px;
+top: 100px;
+}
+.info p{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+text-align: center;
+color: #30444E;
+}
+
+.button{
+position: absolute;
+width: 119px;
+height:40px;
+left: 120px;
+top: 200px;
+}
+.button p{
+background: #EE4248;
+box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+font-size: 20px;
+text-align: center;
+color:#FFFFFF;
+font-weight: normal;
+padding: 12px 13px;
+}
+
+.service{
+ position: absolute;
+width: 359px;
+height: 306px;
+left: 26px;
+top: 417px;
+}
+.service .subheader{
+    left:110px;
+    position: absolute;
+width: 151px;
+height: 37px;
+top: 40px;
+}
+.service .button{
+ top:220px;
+}
+.technology{
+    position: absolute;
+    width: 359px;
+    height: 333px;
+    left: 27px;
+    top: 781px;
+}
+.technology .subheader{
+ position: absolute;
+width: 197px;
+height: 37px;
+left: 80px;
+top: 50px;
+}
+
+.technology .button{
+    top:210px;
+}
+
+@media screen and (min-width: 411px){
+    .product_services{
+        position: absolute;
+width: 1126px;
+height: 459px;
+left: 157px;
+top: 1347px;
+    }
+    .product_services .header{
+        position: absolute;
+width: 288px;
+height: 43px;
+left: 419px;
+top: 20px;
+    }
+.product{
+position: absolute;
+width: 363px;
+height: 360px;
+left: 9px;
+top: 80px;
+    }
+.service{
+position: absolute;
+width: 363px;
+height: 360px;
+left: 381px;
+top: 80px;
+    }
+.technology{
+position: absolute;
+width: 363px;
+height: 360px;
+left: 753px;
+top: 80px;
+    }
+}

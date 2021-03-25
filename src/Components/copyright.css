@@ -1,0 +1,35 @@
+.copy-right{
+    position: absolute;
+width: 411px;
+height: 64px;
+left: 0px;
+top: 3271px;
+background: #EE4248;
+}
+.copy-right p{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+@media screen and (min-width: 411px){
+.copy-right{
+position: absolute;
+width: 1440px;
+height: 64px;
+left: 0px;
+top: 2094px;
+    }
+.copy-right p{
+ position: absolute;
+width: 382px;
+height: 21px;
+left: 530px;
+top: 22px;
+    }
+}

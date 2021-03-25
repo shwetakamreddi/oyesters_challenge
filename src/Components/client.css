@@ -1,0 +1,309 @@
+.client{
+position: absolute;
+width: 411px;
+height: 471px;
+left: 0px;
+top: 2800px;
+background: #FFFFFF;
+display: flex;
+flex-direction: column;
+}
+.group1{
+position: absolute;
+width: 119px;
+height: 56px;
+left: 25px;
+top: 20px;
+display: flex;
+}
+
+.group1 .header{
+    position: absolute;
+    width: 71px;
+    height: 56px;
+    left: 25px;
+    top: 20px;
+    text-align: left;
+}
+.group1 .header h1 .d{
+    color: #85171A;
+    font-weight: 700;
+}
+.group1 .header h1 .s{
+    color:#EE4248;
+    font-weight: 700;
+}
+.group1 .header h1 .i{
+    color:#FFC542;
+    font-weight: 700;
+}
+.group1 .subheader1{
+position: absolute;
+width: 48px;
+height: 14px;
+left: 96px;
+top: 37px;
+}
+.group1 .subheader1 p{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 143.19%;
+/* or 14px */
+
+letter-spacing: 0.06em;
+
+color: rgba(0, 0, 0, 0.6);
+}
+.group1 .subheader2{
+    position: absolute;
+    width: 48px;
+    height: 12px;
+    left: 96px;
+    top: 47px;
+}
+.group1  .subheader2 p{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+
+letter-spacing: 0.01em;
+
+color: rgba(38, 50, 56, 0.8);
+}
+.group1 .subheader3{
+    position: absolute;
+width: 48px;
+height: 12px;
+left: 96px;
+top: 57px;
+}
+.group1 .subheader3 p{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+
+letter-spacing: -0.05em;
+
+color: #263238;
+
+}
+
+.group2{
+position: absolute;
+width: 317px;
+height: 87px;
+left: 25px;
+top: 80px;
+}
+.title{
+    position: absolute;
+width: 259px;
+height: 21px;
+left: 25px;
+top: 20px;
+}
+.title p{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight:bolder;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #263238;
+    text-align: left;
+}
+.address{
+    position: absolute;
+width: 317px;
+height: 54px;
+left: 25px;
+top:50px;
+}
+.address p{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight:normal;
+    font-size: 18px;
+    line-height: 149.19%;
+    /* or 27px */
+    color: #263238;
+}
+.group3{
+    position: absolute;
+width: 269px;
+height: 121px;
+left: 25px;
+top: 199px;
+}
+.contact-header{
+    position: absolute;
+    width: 85px;
+    height: 28px;
+    left: 25px;
+    top:10px;    
+}
+.contact-header .contact{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #263238;
+}
+.contact-details{
+    position: absolute;
+    width: 269px;
+    height: 81px;
+    left: 25px;
+    top: 50px;
+}
+.group4{
+    position: absolute;
+    width: 354.74px;
+    height: 87px;
+    left: 25px;
+    top: 352px;
+}
+.group4 .img1{
+    position: absolute;
+    width: 113.35px;
+    height: 34.92px;
+    left: 31.74px;
+    top:5px;
+}
+.group4 .img1 img{
+    height: 100%;
+    width: 100%;
+    object-fit:fill;
+}
+.img2{
+    position: absolute;
+    width: 98.03px;
+    height: 41.66px;
+    left: 166.53px;
+    top:5px;
+}
+.img2 img{
+    height: 100%;
+    width: 100%;
+    object-fit:fill;
+}
+
+.img3{
+    position: absolute;
+width: 66.17px;
+height: 36.76px;
+left: 286px;
+top: 5px;
+}
+.img3 img{
+    height: 100%;
+    width: 100%;
+    object-fit:fill;
+}
+.img4{
+position: absolute;
+width: 66.78px;
+height: 37.37px;
+left: 31.74px;
+top: 60px;
+}
+.img4 img{
+    height: 100%;
+    width: 100%;
+    object-fit:fill;
+}
+.img5{
+    position: absolute;
+width: 122.54px;
+height: 18.81px;
+left: 113.23px;
+top: 60px;
+}
+.img5 img{
+    height: 100%;
+    width: 100%;
+    object-fit:fill;
+}
+.img6{
+    position: absolute;
+width: 122.54px;
+height: 21.5px;
+left: 257.2px;
+top: 60px;
+}
+.img6 img{
+    height: 100%;
+    width: 100%;
+    object-fit:cover;
+}
+
+@media screen and (min-width: 411px){
+.client{
+position: absolute;
+width: 1126px;
+height: 188px;
+left: 157px;
+top: 1800px;
+background: #FFFFFF;
+display: flex;
+flex-direction: row;
+    }
+.group1{
+position: absolute;
+width: 119px;
+height: 56px;
+left: 0px;
+top: 28px;
+    }
+.group2 .title{
+position: absolute;
+width: 259px;
+height: 21px;
+left: 1px;
+top: 10px;
+    }
+.group2 .address{
+ position: absolute;
+width: 317px;
+height: 54px;
+left: 1px;
+top: 30px;
+    }
+.group3{
+position: absolute;
+width: 269px;
+height: 121px;
+left: 25px;
+top: 50px;
+}
+.group3 .contact-header{
+ position: absolute;
+width: 85px;
+height: 28px;
+left: 365px;
+top: 0px;
+    }
+.group3 .contact-details{
+    position: absolute;
+    width: 269px;
+    height: 81px;
+    left: 365px;
+    top: 40px;
+}
+.group4{
+    position: absolute;
+    width: 354.74px;
+    height: 87px;
+    left: 650px;
+    top: 70px;
+}
+}
